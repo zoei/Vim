@@ -1,0 +1,1 @@
+supertab.vmb: call delete('E:\zoei\.vim/doc/supertab.txt')|call delete('D:\vim/doc/supertab.txt')|call delete('D:\vim/plugin/supertab.vim')
